@@ -1,0 +1,165 @@
+body{
+	background: url(fotos/cloud1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #add8e6; 
+    color: #333;
+}
+.logo{
+	float:left;
+	
+}
+
+.navbar-inverse{
+	background-color:#005f99;
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.navbar-brand{
+	font-family: Paytone One;
+	font-size:24px;
+	color:black;
+
+}
+.navbar-brand:hover {
+    color: #fff;
+}
+
+a{
+    color:black;
+}
+
+.tabshead{
+	font-weight: bold;
+	font-size: 1.5em;
+	color: white;
+}
+
+.tab-content {
+	color: white;
+}
+
+#second{
+	margin-top: 8%;
+    border: 3px solid;
+    box-shadow: 5px 5px 5px 3px #131313;
+    background-color: #005f99;
+
+}
+
+.drop{
+	color: black ;
+	width: 30%;
+	height: 40px;
+	font-size: 1.3em;
+	margin-bottom: 20px;
+	margin-right: 1.2%;
+	margin-left: 1.2%;
+}
+
+.drop2{
+	color: black;
+	width: 45%;
+	height: 40px;
+	font-size: 1.3em;
+	margin-bottom: 20px;
+	margin-left: 3.3%;
+}
+
+.drp{
+	margin-left: 44%;
+}
+
+.drop21{
+	color: black;
+	width: 40.5%;
+	height: 40px;
+	font-size: 1.3em;
+	margin-bottom: 20px;
+	margin-right: 3.3%;
+}
+
+.lab{
+	padding-left: 10px;
+	font-size: 1.5em;
+}
+
+.lab2{
+	padding-left: 3.3%;
+	font-size: 1.5em;
+}
+
+.container{
+	padding-left: 0px;
+	padding-right: 0px;
+	
+	
+}
+
+.btn-group-lg>.btn, .btn-lg {
+	padding: 8px 40px;
+}
+
+#content{
+	text-align: center;
+	padding-top: 10%;
+	text-shadow: black;
+}
+
+h1{
+	font-size: 4em;
+	font-family: Pacifico;
+	word-spacing: 15px;
+	color: white;
+}
+
+#username{
+	margin-left: 9.9%;
+}
+
+#email{
+	margin-left: 12.1%;
+}
+
+#password{
+	margin-left: 10.1%;
+}
+
+#messagecheck1, #messagecheck2{
+	color: red;
+}
+
+.messageCheck{
+	color: red;
+}
+
+#flightsButton{
+	background-color: #005f99;
+	padding: 9.8px;
+	border: none;
+    width: 170px;
+}
+
+#tickButton{
+	background-color: #005f99;
+	padding: 9.8px;
+	border: none;
+    width: 170px;
+    margin-bottom: 5px;
+    margin-left: 42.5%;
+}
+
+#fsButton{
+	background-color: #005f99;
+	padding: 9.8px;
+	border: none;
+    width: 170px;
+}
